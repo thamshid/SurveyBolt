@@ -2,7 +2,7 @@
 if ($uSys -> isLoggedIn()) {
 		redirect(DOMAIN . 'dashboard/');
 }
-includeFile('header');
+ includeFile('header');
 includeFile('index');
 if (isset($_COOKIE['loggedOut']))
 	if ($_COOKIE['loggedOut'] == 'true') {
