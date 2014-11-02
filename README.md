@@ -1,4 +1,6 @@
-SurveyBolt
-==========
-
-SurveyBolt is an online survey system written in PHP
+This is the repository for mini project s6
+Shidil
+Thamshid
+Ajul
+Nikhil
+Rejul
